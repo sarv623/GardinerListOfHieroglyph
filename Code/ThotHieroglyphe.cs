@@ -6,7 +6,7 @@ namespace ThotClasse
     public class GARDINER
     {
 
-        enum hieroglyphe
+      public enum hieroglyphe
         {
             #region
 
